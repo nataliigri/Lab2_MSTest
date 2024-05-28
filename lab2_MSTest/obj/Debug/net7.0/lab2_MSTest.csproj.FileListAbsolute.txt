@@ -1,0 +1,15 @@
+/Users/nataliiagricisin/Documents/3 курс/II семестр/lab2_MSTest/lab2_MSTest/bin/Debug/net7.0/lab2_MSTest
+/Users/nataliiagricisin/Documents/3 курс/II семестр/lab2_MSTest/lab2_MSTest/bin/Debug/net7.0/lab2_MSTest.deps.json
+/Users/nataliiagricisin/Documents/3 курс/II семестр/lab2_MSTest/lab2_MSTest/bin/Debug/net7.0/lab2_MSTest.runtimeconfig.json
+/Users/nataliiagricisin/Documents/3 курс/II семестр/lab2_MSTest/lab2_MSTest/bin/Debug/net7.0/lab2_MSTest.dll
+/Users/nataliiagricisin/Documents/3 курс/II семестр/lab2_MSTest/lab2_MSTest/bin/Debug/net7.0/lab2_MSTest.pdb
+/Users/nataliiagricisin/Documents/3 курс/II семестр/lab2_MSTest/lab2_MSTest/obj/Debug/net7.0/lab2_MSTest.csproj.AssemblyReference.cache
+/Users/nataliiagricisin/Documents/3 курс/II семестр/lab2_MSTest/lab2_MSTest/obj/Debug/net7.0/lab2_MSTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nataliiagricisin/Documents/3 курс/II семестр/lab2_MSTest/lab2_MSTest/obj/Debug/net7.0/lab2_MSTest.AssemblyInfoInputs.cache
+/Users/nataliiagricisin/Documents/3 курс/II семестр/lab2_MSTest/lab2_MSTest/obj/Debug/net7.0/lab2_MSTest.AssemblyInfo.cs
+/Users/nataliiagricisin/Documents/3 курс/II семестр/lab2_MSTest/lab2_MSTest/obj/Debug/net7.0/lab2_MSTest.csproj.CoreCompileInputs.cache
+/Users/nataliiagricisin/Documents/3 курс/II семестр/lab2_MSTest/lab2_MSTest/obj/Debug/net7.0/lab2_MSTest.dll
+/Users/nataliiagricisin/Documents/3 курс/II семестр/lab2_MSTest/lab2_MSTest/obj/Debug/net7.0/refint/lab2_MSTest.dll
+/Users/nataliiagricisin/Documents/3 курс/II семестр/lab2_MSTest/lab2_MSTest/obj/Debug/net7.0/lab2_MSTest.pdb
+/Users/nataliiagricisin/Documents/3 курс/II семестр/lab2_MSTest/lab2_MSTest/obj/Debug/net7.0/lab2_MSTest.genruntimeconfig.cache
+/Users/nataliiagricisin/Documents/3 курс/II семестр/lab2_MSTest/lab2_MSTest/obj/Debug/net7.0/ref/lab2_MSTest.dll

@@ -1,0 +1,6 @@
+/Users/nataliiagricisin/Documents/3 курс/II семестр/lab2_MSTest/Testing_MSTest/obj/Debug/net6.0/Testing_MSTest.csproj.AssemblyReference.cache
+/Users/nataliiagricisin/Documents/3 курс/II семестр/lab2_MSTest/Testing_MSTest/obj/Debug/net6.0/Testing_MSTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nataliiagricisin/Documents/3 курс/II семестр/lab2_MSTest/Testing_MSTest/obj/Debug/net6.0/Testing_MSTest.AssemblyInfoInputs.cache
+/Users/nataliiagricisin/Documents/3 курс/II семестр/lab2_MSTest/Testing_MSTest/obj/Debug/net6.0/Testing_MSTest.AssemblyInfo.cs
+/Users/nataliiagricisin/Documents/3 курс/II семестр/lab2_MSTest/Testing_MSTest/obj/Debug/net6.0/Testing_MSTest.csproj.CoreCompileInputs.cache
+/Users/nataliiagricisin/Documents/3 курс/II семестр/lab2_MSTest/Testing_MSTest/bin/Debug/net6.0/CoverletSourceRootsMapping

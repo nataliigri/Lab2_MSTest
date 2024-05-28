@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+
+<RunSettings>
+  <RunConfiguration>
+    <MaxCpuCount>0</MaxCpuCount>
+    <ResultsDirectory>.\TestResults</ResultsDirectory>
+  </RunConfiguration>
+  <MSTest>
+  </MSTest>
+  <TestGroup1>
+    <TestCategory>Group1</TestCategory>
+  </TestGroup1>
+  <TestGroup2>
+    <TestCategory>Group2</TestCategory>
+  </TestGroup2>
+  <TestSuite>
+    <TestGroup1>
+      <TestCategory>Group1</TestCategory>
+      <TestCategoryNotIn>Group2</TestCategoryNotIn>
+    </TestGroup1>
+    <TestGroup2>
+      <TestCategory>Group2</TestCategory>
+      <TestCategoryNotIn>Group1</TestCategoryNotIn>
+    </TestGroup2>
+  </TestSuite>
+</RunSettings>

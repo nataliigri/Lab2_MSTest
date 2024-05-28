@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{8E627A0D-CF2B-4EAD-A370-D8751BCDE4F5}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Testing_MSTest/UnitTests.cs">
+    <Files>
+      <File FileName="lab2_MSTest/Program.cs" Line="66" Column="1" />
+      <File FileName="Testing_MSTest/Usings.cs" Line="1" Column="1" />
+      <File FileName="Testing_MSTest/testing1.xml" Line="5" Column="33" />
+      <File FileName="Testing_MSTest/testing2.xml" Line="14" Column="40" />
+      <File FileName="Testing_MSTest/UnitTests.cs" Line="7" Column="16" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="lab2_MSTest" expanded="True">
+            <Node name="lab2_MSTest" expanded="True" />
+            <Node name="Testing_MSTest" expanded="True">
+              <Node name="UnitTests.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="lab2_MSTest" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.lab2__MSTest PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
